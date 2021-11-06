@@ -86,7 +86,7 @@ The above tree describes all the files as part of this project.
    - You can also checkout Udacity's original repo for the project - [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classificationhttps://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
  ## Conclusion
  The Transfer model achieves a test accuracy of 83.5%. Using transfer learning, training time is reduced significantly without an accuracy trade off. <br>
- I have summarized the results in a blog [Link](https://blogs.shangkaul.in/)<br>
+ I have summarized the results in a blog [Link](https://blogs.shangkaul.in/dog-breed-classifier-using-cnn-with-transfer-learning)<br>
  Next steps include, creating a flask app to use this model to predict dog breeds in real time. This would take some time since I'll have to upgrade the dependencies to more recent versions. Eventually this app would be deployed on - my site https://shangkaul.in/
  
  ## Acknowledgement and Licensing terms
