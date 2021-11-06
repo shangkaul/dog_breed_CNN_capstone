@@ -81,7 +81,9 @@ The above tree describes all the files as part of this project.
    - activate the virtual env, install required packages as mentioned in requirements folder.
    - Run the Jupyter notebook (GPU acceleration preferred)
    - You can update the image path to run the predictor on your input images as well.
-   
+   - To get the complete dataset used by the project - [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) , [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz)
+   - Download these data sets and update the input dataset paths in the jupyter notebook.
+   - You can also checkout Udacity's original repo for the project - [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classificationhttps://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
  ## Conclusion
  The Transfer model achieves a test accuracy of 83.5%. Using transfer learning, training time is reduced significantly without an accuracy trade off. <br>
  I have summarized the results in a blog [Link](https://blogs.shangkaul.in/)<br>
